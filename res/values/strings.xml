@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Course Cloud</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_gcm">Hello gcm!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- qr code fragment -->
+    <string name="qrcode_fragment_tv">Permission</string>
+    <string name="qrcode_fragment_rb1">permenant</string>
+    <string name="qrcode_fragment_rb2">limited</string>
+    <string name="qrcode_fragment_ch1">Addable in limited time</string>
+    <string name="qrcode_fragment_btn">Generate QR code</string>
+    <string name="qrcode_fragment_dialog_title">Verification of invitaion</string>
+    <string name="qrcode_fragment_dialog_date1">This friendship will end on: </string>
+    <string name="qrcode_fragment_dialog_date2">This verification will expire on: </string>
+    <string name="qrcode_fragment_dialog_btn1">OK</string>
+
+    <!-- chat_room.xml -->
+    <string name="chat_room_btn">Send</string>
+    <string name="chat_room_et1">Type here</string>
+
+    <!-- rate_activity.xml -->
+    <string name="rate_activity_title">Rating page</string>
+    <string name="rate_activity_ability1">Difficulty of Skills</string>
+    <string name="rate_activity_ability2">Originality</string>
+    <string name="rate_activity_ability3">Completion</string>
+    <string name="rate_activity_teamname">Team Name</string>
+    <string name="rate_activity_btn1">Confirm</string>
+    <string name="rate_activity_btn2">Cancel</string>
+    <string name="rate_activity_rate">Rate Now</string>
+    
+    <string-array name="rate_activity_score">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+    </string-array>
+
+    <!-- nfc fragment -->
+    <string name="nfcpush_fragment_tv">Permission</string>
+    <string name="nfcpush_fragment_rb1">permenant</string>
+    <string name="nfcpush_fragment_rb2">limited</string>
+    <string name="nfcpush_fragment_ch1">Addable in limited time</string>
+    <string name="nfcpush_fragment_btn">Start NFC delivery</string>
+    <string name="nfcpush_fragment_tvstatus">NFC status:</string>
+
+    <!-- settings fragment -->
+    <string name="settings_fragment_title">Personal settings</string>
+    <string name="settings_fragment_sethead">click to set portrait</string>
+    <string name="settings_fragment_name">Name: </string>
+    <string name="settings_fragment_email">E-mail: </string>
+    <string name="settings_fragment_id">Student ID: </string>
+    <string name="settings_fragment_portrait">Select your portrait </string>
+    <string name="settings_fragment_dialog_btn">OK </string>
+
+    <!-- attendance fragment -->
+    <string name="attd_fragment_time">Refresh</string>
+
+    <!-- admin fragment -->
+    <string name="admin_fragment_title">Teacher Register</string>
+    <string name="admin_fragment_pwd">Admin Password: </string>
+    <string name="admin_fragment_id">Name:  </string>
+    <string name="admin_fragment_btn">Register</string>
+
+    <!-- client fragment -->
+    <string name="client_fragment_title">Student Login/Register</string>
+    <string name="client_fragment_name">Name:  </string>
+    <string name="client_fragment_student_id">Student ID: </string>
+    <string name="client_fragment_email">Email: </string>
+    <string name="client_fragment_btn1">Log in</string>
+    <string name="client_fragment_btn2">Register</string>
+
+    <!-- ta fragment -->
+    <string name="ta_fragment_title">TA Login</string>
+    <string name="ta_fragment_id">ID:  </string>
+    <string name="ta_fragment_pwd">PWD: </string>
+
+    <!-- score fragment -->
+    <string name="score_fragment_btn1">Refresh List / Count</string>
+    <string name="score_fragment_btn2">Show Record</string>
+    <string name="score_fragment_btn_detail">See details</string>
+    <string name="score_fragment_title">Your rate record</string>
+
+</resources>
